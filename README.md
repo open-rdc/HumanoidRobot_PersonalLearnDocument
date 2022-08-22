@@ -1,0 +1,2 @@
+# HumanoidRobot_PersonalStudyDocument
+ヒューマノイドロボットに関する、私の個人的な勉強をissueに記録しています。公開できるものしか記録しない方針です。
